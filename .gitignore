@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore MLflow tracking logs and runs
+mlruns/
+
+# Ignore logged models
+models/
+
+# Ignore Python cache and other unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
